@@ -1,0 +1,1 @@
+/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/x86

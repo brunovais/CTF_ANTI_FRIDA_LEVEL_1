@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/brunovais/estudos/frida_detect/app/nativelib/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/brunovais/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/RelWithDebInfo/11o5vw1a/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/brunovais/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/RelWithDebInfo/11o5vw1a/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "nativelib::@6890427a1f51a3e7e1df": {
+      "artifactName": "nativelib",
+      "abi": "x86_64",
+      "output": "/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/x86_64/libnativelib.so",
+      "runtimeFiles": []
+    }
+  }
+}

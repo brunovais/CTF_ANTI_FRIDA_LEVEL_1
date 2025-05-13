@@ -1,0 +1,11 @@
+# ninja log v5
+0	343	1736688223491125741	CMakeFiles/nativelib.dir/nativelib.cpp.o	91da6f113fe8bf8a
+344	388	1736688223537297064	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/x86/libnativelib.so	6fb8ab320cccdde5
+1	599	1747136597895539246	CMakeFiles/nativelib.dir/nativelib.cpp.o	91da6f113fe8bf8a
+599	660	1747136597957314835	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/x86/libnativelib.so	6fb8ab320cccdde5
+1	360	1747138483748789223	CMakeFiles/nativelib.dir/nativelib.cpp.o	91da6f113fe8bf8a
+360	402	1747138483790488447	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/x86/libnativelib.so	6fb8ab320cccdde5
+2	371	1747140286858125874	CMakeFiles/nativelib.dir/nativelib.cpp.o	91da6f113fe8bf8a
+371	415	1747140286902053152	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/x86/libnativelib.so	6fb8ab320cccdde5
+2	395	1747140611392925466	CMakeFiles/nativelib.dir/nativelib.cpp.o	91da6f113fe8bf8a
+395	442	1747140611441047055	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/x86/libnativelib.so	6fb8ab320cccdde5

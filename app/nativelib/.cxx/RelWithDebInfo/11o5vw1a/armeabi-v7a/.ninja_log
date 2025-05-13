@@ -1,0 +1,11 @@
+# ninja log v5
+0	303	1736688223102629301	CMakeFiles/nativelib.dir/nativelib.cpp.o	a74b8c3464bf0a07
+304	334	1736688223134964661	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/armeabi-v7a/libnativelib.so	f0c7f2b6310d3c52
+3	497	1747136597219707432	CMakeFiles/nativelib.dir/nativelib.cpp.o	a74b8c3464bf0a07
+498	556	1747136597279365321	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/armeabi-v7a/libnativelib.so	f0c7f2b6310d3c52
+3	515	1747138483321709614	CMakeFiles/nativelib.dir/nativelib.cpp.o	a74b8c3464bf0a07
+515	563	1747138483370265070	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/armeabi-v7a/libnativelib.so	f0c7f2b6310d3c52
+1	359	1747140286426634756	CMakeFiles/nativelib.dir/nativelib.cpp.o	a74b8c3464bf0a07
+359	407	1747140286473650488	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/armeabi-v7a/libnativelib.so	f0c7f2b6310d3c52
+1	350	1747140610934500515	CMakeFiles/nativelib.dir/nativelib.cpp.o	a74b8c3464bf0a07
+350	398	1747140610981876658	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/RelWithDebInfo/11o5vw1a/obj/armeabi-v7a/libnativelib.so	f0c7f2b6310d3c52

@@ -1,0 +1,3 @@
+/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/RelWithDebInfo/11o5vw1a/x86_64/CMakeFiles/nativelib.dir
+/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/RelWithDebInfo/11o5vw1a/x86_64/CMakeFiles/edit_cache.dir
+/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/RelWithDebInfo/11o5vw1a/x86_64/CMakeFiles/rebuild_cache.dir
