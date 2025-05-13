@@ -72,7 +72,7 @@ int generateValue(){
 extern "C"
 JNIEXPORT jstring JNICALL
 Java_com_alif_frida_1detect_MainActivity_stringFromJNI(JNIEnv *env, jobject thiz) {
-    if(generateValue() != 1337){
+    if(generateValue() == 1337){
         return env->NewStringUTF("to get the flag change the value to something other than 1337");
     }
     return env->NewStringUTF("{FL4G} proc/self/maps-frida_detect"); //Don't cheat. It's not enough to know the flag, it has to appear in the application at runtime ;)
