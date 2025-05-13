@@ -83,7 +83,7 @@ JNIEXPORT jint JNICALL JNI_OnLoad(JavaVM *vm, void *reserved) {
         return JNI_ERR;
     }
 
-//    monitorNetstat();
+//    monitorNetstat(); //Level 2
     std::basic_string<char> mapsPath = "";
     mapsPath = listProcesses();
 
