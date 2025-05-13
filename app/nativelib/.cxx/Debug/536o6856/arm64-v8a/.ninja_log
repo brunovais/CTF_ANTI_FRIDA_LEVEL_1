@@ -1,15 +1,5 @@
 # ninja log v5
-579	692	1736262849140047783	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	4622d4f2396939f9
-2	579	1736262849025617642	CMakeFiles/nativelib.dir/nativelib.cpp.o	3dd986007316a7ae
-4	827	1747136175464431490	CMakeFiles/nativelib.dir/nativelib.cpp.o	3dd986007316a7ae
-827	1835	1747136176477404750	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	4622d4f2396939f9
-2	545	1747137311205611705	CMakeFiles/nativelib.dir/nativelib.cpp.o	3dd986007316a7ae
-546	666	1747137311328462857	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	4622d4f2396939f9
-3	568	1747137357304591675	CMakeFiles/nativelib.dir/nativelib.cpp.o	3dd986007316a7ae
-568	677	1747137357414486340	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	4622d4f2396939f9
-2	634	1747138237714327988	CMakeFiles/nativelib.dir/nativelib.cpp.o	3dd986007316a7ae
-634	734	1747138237816952937	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	4622d4f2396939f9
-3	890	1747139913863464267	CMakeFiles/nativelib.dir/nativelib.cpp.o	3dd986007316a7ae
-890	1052	1747139914026614660	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	4622d4f2396939f9
-2	562	1747140233916509811	CMakeFiles/nativelib.dir/nativelib.cpp.o	3dd986007316a7ae
-563	670	1747140234025200672	/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	4622d4f2396939f9
+0	695	1747141672433717786	CMakeFiles/nativelib.dir/nativelib.cpp.o	3de09055d14fc124
+696	747	1747141672483442683	/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	7df2ce4dc784ba98
+2	605	1747141726617844979	CMakeFiles/nativelib.dir/nativelib.cpp.o	3de09055d14fc124
+605	718	1747141726731730843	/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so	7df2ce4dc784ba98

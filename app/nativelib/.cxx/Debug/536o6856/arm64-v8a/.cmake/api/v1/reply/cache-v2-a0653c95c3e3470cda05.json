@@ -151,7 +151,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/Debug/536o6856/arm64-v8a"
+			"value" : "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/.cxx/Debug/536o6856/arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -683,7 +683,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/brunovais/estudos/frida_detect/app/nativelib/src/main/cpp"
+			"value" : "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/src/main/cpp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -719,7 +719,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a"
+			"value" : "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -991,7 +991,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a"
+			"value" : "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1275,7 +1275,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/Debug/536o6856/arm64-v8a"
+			"value" : "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/.cxx/Debug/536o6856/arm64-v8a"
 		},
 		{
 			"name" : "nativelib_IS_TOP_LEVEL",
@@ -1299,7 +1299,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/brunovais/estudos/frida_detect/app/nativelib/src/main/cpp"
+			"value" : "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/src/main/cpp"
 		}
 	],
 	"kind" : "cache",

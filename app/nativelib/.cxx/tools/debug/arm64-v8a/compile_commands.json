@@ -1,7 +1,7 @@
 [
 {
-  "directory": "/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/Debug/536o6856/arm64-v8a",
-  "command": "/Users/brunovais/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/brunovais/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnativelib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/nativelib.dir/nativelib.cpp.o -c /Users/brunovais/estudos/frida_detect/app/nativelib/src/main/cpp/nativelib.cpp",
-  "file": "/Users/brunovais/estudos/frida_detect/app/nativelib/src/main/cpp/nativelib.cpp"
+  "directory": "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/.cxx/Debug/536o6856/arm64-v8a",
+  "command": "/Users/brunovais/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/brunovais/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnativelib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/nativelib.dir/nativelib.cpp.o -c /Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/src/main/cpp/nativelib.cpp",
+  "file": "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/src/main/cpp/nativelib.cpp"
 }
 ]

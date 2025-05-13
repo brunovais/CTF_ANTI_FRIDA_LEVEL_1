@@ -1,4 +1,4 @@
-# Install script for directory: /Users/brunovais/estudos/frida_detect/app/nativelib/src/main/cpp
+# Install script for directory: /Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/Debug/536o6856/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/.cxx/Debug/536o6856/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

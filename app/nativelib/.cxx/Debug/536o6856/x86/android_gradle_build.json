@@ -1,19 +1,19 @@
 {
   "buildFiles": [
-    "/Users/brunovais/estudos/frida_detect/app/nativelib/src/main/cpp/CMakeLists.txt"
+    "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/src/main/cpp/CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
       "/Users/brunovais/Library/Android/sdk/cmake/3.22.1/bin/ninja",
       "-C",
-      "/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/Debug/536o6856/x86",
+      "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/.cxx/Debug/536o6856/x86",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "/Users/brunovais/Library/Android/sdk/cmake/3.22.1/bin/ninja",
     "-C",
-    "/Users/brunovais/estudos/frida_detect/app/nativelib/.cxx/Debug/536o6856/x86",
+    "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/.cxx/Debug/536o6856/x86",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
@@ -21,7 +21,7 @@
       "toolchain": "toolchain",
       "abi": "x86",
       "artifactName": "nativelib",
-      "output": "/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/x86/libnativelib.so",
+      "output": "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/x86/libnativelib.so",
       "runtimeFiles": []
     }
   },

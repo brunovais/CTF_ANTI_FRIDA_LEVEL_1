@@ -1,1 +1,1 @@
-/Users/brunovais/estudos/frida_detect/app/nativelib/src/main/cpp/CMakeLists.txt
+/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/src/main/cpp/CMakeLists.txt

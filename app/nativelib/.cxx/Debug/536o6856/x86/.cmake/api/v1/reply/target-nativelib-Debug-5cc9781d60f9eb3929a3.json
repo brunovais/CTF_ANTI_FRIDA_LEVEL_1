@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/Users/brunovais/estudos/frida_detect/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/arm64-v8a/libnativelib.so"
+			"path" : "/Users/brunovais/estudos/frida_detect/CTF_ANTI_FRIDA_LEVEL_1/app/nativelib/build/intermediates/cxx/Debug/536o6856/obj/x86/libnativelib.so"
 		}
 	],
 	"backtrace" : 1,
